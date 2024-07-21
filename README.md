@@ -27,7 +27,7 @@ I'm a Master of Analytics student at Massey University, a passionate Full Stack 
 
 ## Projects
 
-### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) ![Python](https://img.shields.io/badge/Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
+### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
 This project is a demonstration of **web scraping**, **API usage**, **big data processing**, **data visualization**, and advanced **data integration** techniques.
 
