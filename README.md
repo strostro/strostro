@@ -27,7 +27,7 @@ I'm a Master of Analytics student at Massey University, a passionate Full Stack 
 
 ## Projects
 
-### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html)
+### [New Zealand Job Market Analysis]
 Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
 This project is a demonstration of **web scraping**, **API usage**, **big data processing**, **data visualization**, and advanced **data integration** techniques.
 
@@ -39,14 +39,14 @@ Use of various multivariate analysis techniques to explore factors influencing w
 
 ## Projects
 
-### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) ![Analysis](https://img.shields.io/badge/Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
+### ![Python](https://img.shields.io/badge/Analysis-3776AB?style=flat-square&logo=python&logoColor=white)[New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) 
 Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
 This project is a demonstration of **web scraping**, **API usage**, **big data processing**, **data visualization**, and advanced **data integration** techniques.
 
-### [Machine Learning Models for Image Recognition](https://strostro.github.io/portfolio/DataMining/Celebrity%20Classification.htm) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)[Machine Learning Models for Image Recognition](https://strostro.github.io/portfolio/DataMining/Celebrity%20Classification.htm) 
 Three models (**ANN, OpenCV and CNN**) were trained during the study to provide classification predictions for 19 specified celebrities. Python was used, including NumPy for data manipulation, OpenCV for image processing, and various machine learning libraries such as **TensorFlow** and **scikit-learn** for model training and evaluation.
 
-### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm) ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Analysis-4CAF50?style=flat-square&logo=dataiku&logoColor=white)
+### ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Analysis-4CAF50?style=flat-square&logo=dataiku&logoColor=white)[Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm) 
 Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including **PCA(principal component analysis)**, **FA(factor analysis)**, **cluster analysis**, **correspondence analysis**, **canonical correlation analysis**, **PLS regression**.
 
 
