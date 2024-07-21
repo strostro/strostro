@@ -37,9 +37,6 @@ Three models (**ANN, OpenCV and CNN**) were trained during the study to provide 
 ### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm)
 Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including **PCA(principal component analysis)**, **FA(factor analysis)**, **cluster analysis**, **correspondence analysis**, **canonical correlation analysis**, **PLS regression**. 
 
-## Contact Me
-
-## Contact Me
 
 ## Contact Me
 
