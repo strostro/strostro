@@ -1,6 +1,6 @@
 # Hi there👋
 
-I'm a Master of Analytics student at Massey University, a passionate Full Stack Analyst,specializing in data/business/system analysis. 
+I'm a Master of Analytics student at Massey University, a passionate Full Stack Analyst, specializing in data/business/system analysis. 
 
 ## Skills
 
