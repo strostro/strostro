@@ -6,10 +6,12 @@ I'm a Master of Analytics student at Massey University, specializing in data and
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-FF6F00?style=flat-square&logo=dataiku&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-61DAFB?style=flat-square&logo=agile&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-FFB6C1?style=flat-square&logo=figma&logoColor=white)
+![UX](https://img.shields.io/badge/UX-FF69B4?style=flat-square&logo=ux&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data%20Mining-FF6F00?style=flat-square&logo=dataiku&logoColor=white)
 
 ## Tools
 
@@ -17,6 +19,9 @@ I'm a Master of Analytics student at Massey University, specializing in data and
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0076A8?style=flat-square&logo=sas&logoColor=white)
+
 
 ## Projects
 
