@@ -1,6 +1,6 @@
-# Hi there, I'm Robin! 👋
+# Hi there, 👋
 
-I'm a Master of Analytics student at Massey University, specializing in data and business analysis. I'm passionate about using technology to improve education and make good education accessible to more people.
+I'm a Master of Analytics student at Massey University, a passionate Full Stack Analyst,specializing in data/business/system analysis. 
 
 ## Skills
 
@@ -16,11 +16,13 @@ I'm a Master of Analytics student at Massey University, specializing in data and
 ## Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0076A8?style=flat-square&logo=sas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0076A8?style=flat-square&logo=sas&logoColor=white)
+
 
 
 ## Projects
@@ -37,5 +39,5 @@ Use of various multivariate analysis techniques to explore factors influencing w
 ## Contact Me
 
 - Email: [robin.yxie@gmail.com](mailto:robin.yxie@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Personal Website: [YourWebsite.com](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yue-xie-77377b2ba/))
+
