@@ -1,4 +1,4 @@
-# Hi there, 👋
+# Hi there👋
 
 I'm a Master of Analytics student at Massey University, a passionate Full Stack Analyst,specializing in data/business/system analysis. 
 
@@ -29,12 +29,13 @@ I'm a Master of Analytics student at Massey University, a passionate Full Stack 
 
 ### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html)
 Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
+This project is a demonstration of **web scraping**, **API usage**, **big data processing**, **data visualization**, and advanced **data integration** techniques.
 
 ### [Machine Learning Models for Image Recognition](https://strostro.github.io/portfolio/DataMining/Celebrity%20Classification.htm)
-Three models (ANN, OpenCV and CNN) were trained during the study to provide classification predictions for 19 specified celebrities. Python was used, including NumPy for data manipulation, OpenCV for image processing, and various machine learning libraries such as TensorFlow and scikit-learn for model training and evaluation.
+Three models (**ANN, OpenCV and CNN**) were trained during the study to provide classification predictions for 19 specified celebrities. Python was used, including NumPy for data manipulation, OpenCV for image processing, and various machine learning libraries such as **TensorFlow** and **scikit-learn** for model training and evaluation.
 
 ### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm)
-Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including principal component analysis, factor analysis, cluster analysis, correspondence analysis, canonical correlation analysis, PLS regression. 
+Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including **PCA(principal component analysis)**, **FA(factor analysis)**, **cluster analysis**, **correspondence analysis**, **canonical correlation analysis**, **PLS regression**. 
 
 ## Contact Me
 
