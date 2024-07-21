@@ -24,7 +24,6 @@ I'm a Master of Analytics student at Massey University, a passionate Full Stack 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-
 ## Projects
 
 ### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
