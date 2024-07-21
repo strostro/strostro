@@ -39,6 +39,9 @@ Use of various multivariate analysis techniques to explore factors influencing w
 
 ## Contact Me
 
+## Contact Me
+
 - Email: [robin.yxie@gmail.com](mailto:robin.yxie@gmail.com)
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yue-xie-77377b2ba/))
+- LinkedIn: [Yue Xie(Robin)](https://www.linkedin.com/in/yue-xie-77377b2ba/)
+
 
