@@ -37,6 +37,16 @@ Three models (**ANN, OpenCV and CNN**) were trained during the study to provide 
 ### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm)
 Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including **PCA(principal component analysis)**, **FA(factor analysis)**, **cluster analysis**, **correspondence analysis**, **canonical correlation analysis**, **PLS regression**. 
 
+### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html)
+Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
+This project is a demonstration of <span style="color:green">web scraping</span>, <span style="color:green">API usage</span>, <span style="color:green">big data processing</span>, <span style="color:green">data visualization</span>, and advanced <span style="color:green">data integration</span> techniques.
+
+### [Machine Learning Models for Image Recognition](https://strostro.github.io/portfolio/DataMining/Celebrity%20Classification.htm)
+Three models (<span style="color:green">ANN</span>, <span style="color:green">OpenCV</span> and <span style="color:green">CNN</span>) were trained during the study to provide classification predictions for 19 specified celebrities. Python was used, including <span style="color:green">NumPy</span> for data manipulation, <span style="color:green">OpenCV</span> for image processing, and various machine learning libraries such as <span style="color:green">TensorFlow</span> and <span style="color:green">scikit-learn</span> for model training and evaluation.
+
+### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm)
+Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including <span style="color:green">PCA (principal component analysis)</span>, <span style="color:green">FA (factor analysis)</span>, <span style="color:green">cluster analysis</span>, <span style="color:green">correspondence analysis</span>, <span style="color:green">canonical correlation analysis</span>, <span style="color:green">PLS regression</span>.
+
 
 ## Contact Me
 
