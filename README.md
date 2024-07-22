@@ -25,6 +25,8 @@ I'm a Master of Analytics student at Massey University, a passionate Full Stack 
 
 
 ## Projects
+### [Long-Term Unemployment Analysis](https://strostro.github.io/portfolio/Python/Long-Term%20Unemployment%20Analysis.html) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+This project analyzes the impact of long-term unemployment on societal health and child well-being, with a focus on **data wrangling**.
 
 ### [New Zealand Job Market Analysis](https://strostro.github.io/portfolio/Python/NZ-Job-Landscape.html) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 Analyzing industry trends, regional job distribution, salary trends, and skill demand in New Zealand's job market using historical AVI data, GDP contributions, and filled jobs data.
@@ -35,7 +37,6 @@ Three models (**ANN, OpenCV and CNN**) were trained during the study to provide 
 
 ### [Exploring Work-Life Balance with Multivariate Analysis](https://strostro.github.io/portfolio/Multivariate%20Analysis/MultivariateAnalysis.htm) ![Multivariate Analysis](https://img.shields.io/badge/Multivariate%20Analysis-4CAF50?style=flat-square&logo=dataiku&logoColor=white)
 Use of various multivariate analysis techniques to explore factors influencing work-life balance indicators, including **PCA(principal component analysis)**, **FA(factor analysis)**, **cluster analysis**, **correspondence analysis**, **canonical correlation analysis**, **PLS regression**.
-
 
 
 ## Contact Me
